@@ -8,3 +8,8 @@
     border: none;
  } 
 
+ .body {
+      background-image: url("images/background.jpeg");
+      background-size: cover;
+ }
+
